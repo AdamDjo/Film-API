@@ -1,4 +1,4 @@
-# React Portfolio website
+# React Netflix like website // consuming API // Manuplate localstorage
 
 Designed by - [Adam](https://github.com/AdamDjo/) <br/>Live preview [here](https://films-application.netlify.app/)<br/>
 
