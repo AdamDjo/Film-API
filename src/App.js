@@ -14,7 +14,7 @@ function App() {
           <Header></Header>
 
           <Routes>
-            {/* <Route exact path="" element={<Home />} />*/}
+            <Route exact path="" element={<Home />} />
             <Route exact path="/whishlist" element={<Whishlist />} />
             <Route exact path="*" element={<Home />} />
           </Routes>
