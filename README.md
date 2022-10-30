@@ -1,4 +1,4 @@
-# React Netflix like website // consuming API // Manuplate localstorage
+# React Netflix like website // consuming API //  localstorage
 
 Designed by - [Adam](https://github.com/AdamDjo/) <br/>Live preview [here](https://films-application.netlify.app/)<br/>
 
